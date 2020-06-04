@@ -1,11 +1,2 @@
 percobaan pertama
-kedua
 
-aboe menambahkan kata2 ini
-
-<<<<<<< HEAD
-selanjutnya ok
-=======
-selanjutnya
-tes error
->>>>>>> bcc3b88947ab012067a4ed2b78d564d461f33b69
